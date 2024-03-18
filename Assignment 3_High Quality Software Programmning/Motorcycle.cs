@@ -25,7 +25,7 @@ namespace Assignment_3_High_Quality_Software_Programmning
         {
             base.DisplayDetails();
             Console.WriteLine($"Engine Capacity: {EngineCapacity}");
-            Console.WriteLine($"Fuel Type: {FuelType}");
+            Console.WriteLine($"The Fuel Type: {FuelType}");
             Console.WriteLine($"Has Fairing: {HasFairing}");
         }
     }

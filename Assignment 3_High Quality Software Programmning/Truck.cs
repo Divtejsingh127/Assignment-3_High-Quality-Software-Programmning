@@ -26,7 +26,7 @@ namespace Assignment_3_High_Quality_Software_Programmning
         public override void DisplayDetails()
         {
             base.DisplayDetails();
-            Console.WriteLine($"Capacity: {Capacity}, Truck Type: {TruckType}, Four Wheel Drive: {FourWheelDrive}");
+            Console.WriteLine($"Capacity: {Capacity}, Truck Types: {TruckType},The Four Wheel Drive: {FourWheelDrive}");
         }
     }
 }

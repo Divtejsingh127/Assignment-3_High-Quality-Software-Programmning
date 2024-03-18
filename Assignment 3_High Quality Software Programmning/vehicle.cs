@@ -23,9 +23,9 @@ namespace Assignment_3_High_Quality_Software_Programmning
         }
         public virtual void DisplayDetails()
         {
-            Console.WriteLine($"Model Name: {Model}");
+            Console.WriteLine($"The Model Name: {Model}");
             Console.WriteLine($"Manufacturer: {Menufacturer}");
-            Console.WriteLine($"Year is: {Year}");
+            Console.WriteLine($"Year Of Vehicle: {Year}");
             Console.WriteLine($"Rental price is: {RentalPrice}");
         }
     }

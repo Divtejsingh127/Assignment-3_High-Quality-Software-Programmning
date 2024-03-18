@@ -28,7 +28,7 @@ namespace Assignment_3_High_Quality_Software_Programmning
             Console.WriteLine($"Seats: {Seats}");
             Console.WriteLine($"Engine Type: {EngineType}");
             Console.WriteLine($"Transmission: {Transmission}");
-            Console.WriteLine($"Convertible: {Convertible}");
+            Console.WriteLine($"Convertible cars: {Convertible}");
         }
     }
 }
